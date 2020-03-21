@@ -43,11 +43,11 @@ def Gui(percentage, naamschijf):
   root.mainloop()
 
 
-def vertical():
+def vertical(): #heeft nog geen officiele functie
   print("hi")
   structure = 'test'
 
-def horizontal():
+def horizontal(): #heeft nog geen officiele functie
   print('hi2')
   structure = 'test'
 
